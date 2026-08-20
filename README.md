@@ -1,1 +1,1 @@
-# PE (portable executeable) windows builder
+# exec (executeable file) builder
