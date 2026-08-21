@@ -1,1 +1,1 @@
-# exec (executeable file) builder
+# exec (executeable file) generator
